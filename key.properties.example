@@ -1,0 +1,5 @@
+# انسخه إلى android/key.properties ولا ترفعه إلى Git أبدًا
+storePassword=كلمة_مرور_المخزن
+keyPassword=كلمة_مرور_المفتاح
+keyAlias=upload
+storeFile=upload-keystore.jks
